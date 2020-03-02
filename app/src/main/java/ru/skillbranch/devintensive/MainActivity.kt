@@ -2,6 +2,7 @@ package ru.skillbranch.devintensive
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.skillbranch.R
 
 class MainActivity : AppCompatActivity() {
 
